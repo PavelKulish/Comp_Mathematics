@@ -1,1 +1,1 @@
-omputatiom Math in DASR MIPT
+Computation Math in DASR MIPT
